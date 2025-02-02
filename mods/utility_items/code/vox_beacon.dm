@@ -100,4 +100,4 @@
 		user.visible_message(
 			SPAN_NOTICE("\The [user] inserts \a [H] into \the [src]."),
 		)
-		return 1
+		return 0
